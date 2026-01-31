@@ -1,0 +1,40 @@
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+    font-weight: 900;
+}
+.h1{
+    color: blue;
+    font-size: 72px;
+    font-weight: 900;
+}
+.p{
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+ul{
+    list-style:none;
+}
+.table{
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.box{
+    width: 200px; /* ancho del contenedor */
+    height: 300px;  /* altura del contenedor */
+    background-color: blue;
+    padding: 80px 40px;
+    margin-left: 150px;
+    color: white;
+    font-weight: 42px;
+}
+.box:hover{
+    background-color: red;
+}
